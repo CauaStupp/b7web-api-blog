@@ -125,6 +125,10 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+# Images of DB
+public/images/covers/*
+tmp/*
+
 # yarn v3
 .pnp.*
 .yarn/*
